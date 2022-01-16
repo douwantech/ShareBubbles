@@ -1,0 +1,6 @@
+framework module ShareBubbles {
+  umbrella header "ShareBubbles-umbrella.h"
+
+  export *
+  module * { export * }
+}

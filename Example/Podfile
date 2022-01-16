@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ShareBubbles_Example' do
+  pod 'ShareBubbles', :path => '../'
+
+  target 'ShareBubbles_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

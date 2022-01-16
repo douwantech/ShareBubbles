@@ -1,0 +1,16 @@
+PODS:
+  - ShareBubbles (0.1.0)
+
+DEPENDENCIES:
+  - ShareBubbles (from `../`)
+
+EXTERNAL SOURCES:
+  ShareBubbles:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ShareBubbles: 5b857b1db1f0bee82f7c5b9ebf543a569bb5ad19
+
+PODFILE CHECKSUM: 7b7686557378f353a8a2070a480d3790306bb12c
+
+COCOAPODS: 1.11.2
