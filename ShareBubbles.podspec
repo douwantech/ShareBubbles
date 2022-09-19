@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ShareBubbles'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'Animated Social share buttons control for iOS written in Swift.'
 
 # This description is used to generate tags and improve search results.
@@ -30,9 +30,6 @@ Animated Social share buttons control for iOS written in Swift. This library is 
   s.swift_version    = '5.0'
   s.ios.deployment_target = '9.0'
   s.source_files = 'ShareBubbles/Classes/**/*'
-  s.resource_bundles = {
-    'ShareBubbles' => ['ShareBubbles/Assets/*.png']
-  }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'

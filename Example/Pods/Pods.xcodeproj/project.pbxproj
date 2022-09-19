@@ -7,129 +7,82 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		003EE3890A952FD595A8A49985BCB430 /* ShareBubbles.h in Headers */ = {isa = PBXBuildFile; fileRef = 46599739CAF2136F8069777072F49FA2 /* ShareBubbles.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		099717884816F09C712CD20563C98FE8 /* ShareBubblesDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EF1B16F50FEF60498A7CE466FCBAF09 /* ShareBubblesDelegate.swift */; };
 		120CFBD43538D0118799951E82CF7315 /* Pods-ShareBubbles_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8426F9860AC3CA9A0907CE1B76A08FCD /* Pods-ShareBubbles_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		18ECB3729C8D73C346332E1EC205A7B1 /* icon-instagram@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6376E85DBC2FC13D44656244CE7CC859 /* icon-instagram@2x.png */; };
-		361513752F2F2FCEBEBCCE3569EEBA3F /* icon-whatsapp@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8643703312AA4FC586EC42C2171803C1 /* icon-whatsapp@2x.png */; };
-		3CCBE50C8F561DCA23FC98F58A84197A /* icon-youtube@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 040D57E5B72D96A2C4729155A98FAED5 /* icon-youtube@2x.png */; };
-		3F9F0C50190AC740A23D3654173F3815 /* ShareAttirbute.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99BC0582420917ECA895CBA42F7AE643 /* ShareAttirbute.swift */; };
-		5850A5108BD915ABF1DED6A435B74567 /* icon-weibo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 07B4570A41D409293C6005692C85F102 /* icon-weibo@2x.png */; };
 		5D26830FEF62898C882B4EFC17FC06C7 /* Pods-ShareBubbles_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C40493B623C9B0AF7453280950F81DBE /* Pods-ShareBubbles_Tests-dummy.m */; };
-		607D2D97EA4C619345D86A8CDE45DA3A /* icon-googleplus@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D08B75ACFF37A3584B5DA825E868CEE /* icon-googleplus@2x.png */; };
-		6484EDDB51CF30F3EB78EC999F3503A4 /* icon-linkedin@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 158CCA648B5A9EF8EEA1DED8CB294128 /* icon-linkedin@2x.png */; };
 		68AFC8242A5907A7CEBE53661C6C2802 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		75FCA8602CA43E8B0E28B76056FB9B64 /* icon-pinterest@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E9074E033E1547A54D996392E5CD1941 /* icon-pinterest@2x.png */; };
 		76266F9B7A6344BA4E3B047F6BE5C71E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		831A1DAD16F4316867F8CD11D60C2F9E /* ShareBubbles-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 50F2CB5353DA04CBB3D72F4508D7171A /* ShareBubbles-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8940B31C356833B63EE7179594B79845 /* icon-facebook@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1836C755C6EF3618613F7F159B748D70 /* icon-facebook@2x.png */; };
+		7B7579A0BC83A980FCB002D8F46DB5C8 /* ShareBubbles-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8A315E45D22696781E0D85A0891CC061 /* ShareBubbles-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		806DD737333C56A6DB89E51F25ECF647 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		8C57687FA40454747AA9A0E80E27E878 /* Pods-ShareBubbles_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 73A2D5161B359D5F6D077EB64B9AF4AD /* Pods-ShareBubbles_Example-dummy.m */; };
-		92EE8F11D3294F8A69C021802AEE47F1 /* ShareBubbles-ShareBubbles in Resources */ = {isa = PBXBuildFile; fileRef = 8D8DD7C3311B03D249D368E9728C4098 /* ShareBubbles-ShareBubbles */; };
-		9DA75824D2FB3F845CCED5D711403294 /* icon-safari@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E85B22858A1CBF3857771791B4F68DA /* icon-safari@2x.png */; };
-		9E5636CE1184DDA337D147F97FF68D95 /* Bubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B1F11B659BD238DA75990F74241ABA /* Bubble.swift */; };
-		B42A7E0DC33F995D0BF8DD252476882C /* ShareBubbles-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 68452FE53AF1040AB0C4517A6DD5957D /* ShareBubbles-dummy.m */; };
+		95703C5C45F16848CAC1537DE34912B9 /* ShareBubbles.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC7B1EB0563D91EBCD889B185D6BF1E /* ShareBubbles.swift */; };
+		B0428D09E8AF8A43630232BADE41B11F /* UIColor+ShareBubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2699BF86A80A49459393BDFABEF5CD4 /* UIColor+ShareBubble.swift */; };
 		B47A9A72813992250A19CEC7A7F289A2 /* Pods-ShareBubbles_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B849AE5E0AF72A70714B025621236EC9 /* Pods-ShareBubbles_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B5994962EED6169B5B72A18280F03AB0 /* UIColor+ShareBubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = 790B30EE6EF0A442D04DB3F067850501 /* UIColor+ShareBubble.swift */; };
-		C8E860F43B56E210358C35EFB95BCFAA /* icon-twitter@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CCC4EF3F81696F8FC53902FF70C073C /* icon-twitter@2x.png */; };
-		D0243B892D5DB77A36708570D7498E9B /* ShareBubbles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FC2A6FE323BB25F60DBEEC9CBB35A2C /* ShareBubbles.swift */; };
-		DCBC1E17F62F4DD4A1F1E5AC1D002EFF /* icon-line@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD81CF9E0ED0B8CA1D282A80E9B23C94 /* icon-line@2x.png */; };
-		E8AC78A92A824B2D791634A420DD4FF6 /* ShareBubblesDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6684A36B20ABEEF44480B0037BC92B8A /* ShareBubblesDelegate.swift */; };
-		EDC56D2815F07CC19A6712BC677F15A8 /* ShareBubbles.h in Headers */ = {isa = PBXBuildFile; fileRef = B85A8F197004FB4736AC28064A9134B4 /* ShareBubbles.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F6246BD76FE512D8ED2CE76BDE36E5DC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		C39CB23F304CCDD38559472176162A02 /* ShareAttirbute.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE593A82EBCAB40A1588E10DE2878F6 /* ShareAttirbute.swift */; };
+		D2448BEB44E7BDD3ECC8931B585D48D0 /* Bubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99DD1ECEABF4EA987474C0C1A4C8A7A /* Bubble.swift */; };
+		FD752029F9F5EC293EB4624175B48E27 /* ShareBubbles-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D2F1D536DFA303ACD7EDDE30316D5B79 /* ShareBubbles-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		18DECD950F878FADFEA58D2A1E5E4D1F /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = C360A1BD858E1C2CFD7E81B37156F71B;
-			remoteInfo = "ShareBubbles-ShareBubbles";
-		};
-		BF7198B073D6E507238C4C4F49241813 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 662D4546D16AB6F3BDE82308D4E7EA52;
-			remoteInfo = "Pods-ShareBubbles_Example";
-		};
-		E1F6ED5B3AD81F6E99B96637CA33DFE2 /* PBXContainerItemProxy */ = {
+		935BF7676A2156B3D17E4D4ACDC9745C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = E79FE145E0C9875FD3B90B220DA3FD08;
 			remoteInfo = ShareBubbles;
 		};
+		C874C565A23C0D895E9E14BF9DDE0501 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 662D4546D16AB6F3BDE82308D4E7EA52;
+			remoteInfo = "Pods-ShareBubbles_Example";
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		040D57E5B72D96A2C4729155A98FAED5 /* icon-youtube@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon-youtube@2x.png"; path = "ShareBubbles/Assets/icon-youtube@2x.png"; sourceTree = "<group>"; };
-		07B4570A41D409293C6005692C85F102 /* icon-weibo@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon-weibo@2x.png"; path = "ShareBubbles/Assets/icon-weibo@2x.png"; sourceTree = "<group>"; };
 		0F0505CE334B4B723C6EEE4C8221CC7A /* Pods-ShareBubbles_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ShareBubbles_Tests-Info.plist"; sourceTree = "<group>"; };
-		0FA9BDC8C8A5D5F66C54062BA585E7A0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		0FCF7805F08B69E95B00F0AA13958AB7 /* Pods-ShareBubbles_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ShareBubbles_Example.release.xcconfig"; sourceTree = "<group>"; };
-		158CCA648B5A9EF8EEA1DED8CB294128 /* icon-linkedin@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon-linkedin@2x.png"; path = "ShareBubbles/Assets/icon-linkedin@2x.png"; sourceTree = "<group>"; };
 		17341572BCB49C7D55AB6FE2707D5865 /* Pods-ShareBubbles_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ShareBubbles_Example-Info.plist"; sourceTree = "<group>"; };
-		1797806224499A8953193B7678034483 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		1836C755C6EF3618613F7F159B748D70 /* icon-facebook@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon-facebook@2x.png"; path = "ShareBubbles/Assets/icon-facebook@2x.png"; sourceTree = "<group>"; };
-		25C6D125A1CFD8A624A201FE885DACE4 /* ShareBubbles.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ShareBubbles.release.xcconfig; sourceTree = "<group>"; };
-		35BF23DB5906C08A6FF4351B0306859B /* ShareBubbles-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ShareBubbles-prefix.pch"; sourceTree = "<group>"; };
+		2A002BFB694C9B11B9AFAB11B60C8585 /* ShareBubbles.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ShareBubbles.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		2AE593A82EBCAB40A1588E10DE2878F6 /* ShareAttirbute.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ShareAttirbute.swift; path = ShareBubbles/Classes/ShareAttirbute.swift; sourceTree = "<group>"; };
 		3C6D6981DE4EEEE8CDB25878A9555FE8 /* Pods-ShareBubbles_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ShareBubbles_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		41B1F11B659BD238DA75990F74241ABA /* Bubble.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Bubble.swift; path = ShareBubbles/Classes/Bubble.swift; sourceTree = "<group>"; };
+		3C82DF0501E93FF22AAF1FF86F9C236C /* ShareBubbles.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ShareBubbles.release.xcconfig; sourceTree = "<group>"; };
+		46599739CAF2136F8069777072F49FA2 /* ShareBubbles.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ShareBubbles.h; path = ShareBubbles/Classes/ShareBubbles.h; sourceTree = "<group>"; };
 		475F65E1181C73A6244464D44425D5F5 /* Pods-ShareBubbles_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ShareBubbles_Tests.modulemap"; sourceTree = "<group>"; };
+		489142AF7A58087F9282DEF882E31F08 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		4C73BECDC7CEECEEFE37C34BB647DF77 /* Pods-ShareBubbles_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ShareBubbles_Example-frameworks.sh"; sourceTree = "<group>"; };
-		4CCC4EF3F81696F8FC53902FF70C073C /* icon-twitter@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon-twitter@2x.png"; path = "ShareBubbles/Assets/icon-twitter@2x.png"; sourceTree = "<group>"; };
-		4D08B75ACFF37A3584B5DA825E868CEE /* icon-googleplus@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon-googleplus@2x.png"; path = "ShareBubbles/Assets/icon-googleplus@2x.png"; sourceTree = "<group>"; };
-		4FC2A6FE323BB25F60DBEEC9CBB35A2C /* ShareBubbles.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ShareBubbles.swift; path = ShareBubbles/Classes/ShareBubbles.swift; sourceTree = "<group>"; };
-		50F2CB5353DA04CBB3D72F4508D7171A /* ShareBubbles-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ShareBubbles-umbrella.h"; sourceTree = "<group>"; };
-		5C5D19B2F3BE59BCBA54A587DDDE8BD5 /* ResourceBundle-ShareBubbles-ShareBubbles-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-ShareBubbles-ShareBubbles-Info.plist"; sourceTree = "<group>"; };
 		5C7701CE4D78570463B9C03CCFBE479D /* Pods-ShareBubbles_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ShareBubbles_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		5ED553F15EDFF1029C058134C27C20A5 /* ShareBubbles.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ShareBubbles.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		6376E85DBC2FC13D44656244CE7CC859 /* icon-instagram@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon-instagram@2x.png"; path = "ShareBubbles/Assets/icon-instagram@2x.png"; sourceTree = "<group>"; };
-		6684A36B20ABEEF44480B0037BC92B8A /* ShareBubblesDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ShareBubblesDelegate.swift; path = ShareBubbles/Classes/ShareBubblesDelegate.swift; sourceTree = "<group>"; };
 		66AC90D3D935A5F30D3EF31EB78B83DD /* Pods-ShareBubbles_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ShareBubbles_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		68452FE53AF1040AB0C4517A6DD5957D /* ShareBubbles-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ShareBubbles-dummy.m"; sourceTree = "<group>"; };
-		6E85B22858A1CBF3857771791B4F68DA /* icon-safari@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon-safari@2x.png"; path = "ShareBubbles/Assets/icon-safari@2x.png"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		73A2D5161B359D5F6D077EB64B9AF4AD /* Pods-ShareBubbles_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ShareBubbles_Example-dummy.m"; sourceTree = "<group>"; };
-		790B30EE6EF0A442D04DB3F067850501 /* UIColor+ShareBubble.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIColor+ShareBubble.swift"; path = "ShareBubbles/Classes/UIColor+ShareBubble.swift"; sourceTree = "<group>"; };
 		8426F9860AC3CA9A0907CE1B76A08FCD /* Pods-ShareBubbles_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ShareBubbles_Tests-umbrella.h"; sourceTree = "<group>"; };
-		8643703312AA4FC586EC42C2171803C1 /* icon-whatsapp@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon-whatsapp@2x.png"; path = "ShareBubbles/Assets/icon-whatsapp@2x.png"; sourceTree = "<group>"; };
+		8A315E45D22696781E0D85A0891CC061 /* ShareBubbles-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ShareBubbles-umbrella.h"; sourceTree = "<group>"; };
 		8B3CF79DCCC14C5064D1AAB3ECD3895C /* Pods-ShareBubbles_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ShareBubbles_Example"; path = Pods_ShareBubbles_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		8D8DD7C3311B03D249D368E9728C4098 /* ShareBubbles-ShareBubbles */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "ShareBubbles-ShareBubbles"; path = ShareBubbles.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		9241FACFE6242E49093AA0FCA56B1140 /* ShareBubbles.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ShareBubbles.modulemap; sourceTree = "<group>"; };
-		99BC0582420917ECA895CBA42F7AE643 /* ShareAttirbute.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ShareAttirbute.swift; path = ShareBubbles/Classes/ShareAttirbute.swift; sourceTree = "<group>"; };
+		8EF1B16F50FEF60498A7CE466FCBAF09 /* ShareBubblesDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ShareBubblesDelegate.swift; path = ShareBubbles/Classes/ShareBubblesDelegate.swift; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A9701CF55547BACE9BA715CEA7BC0A4D /* ShareBubbles-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ShareBubbles-Info.plist"; sourceTree = "<group>"; };
+		A2699BF86A80A49459393BDFABEF5CD4 /* UIColor+ShareBubble.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIColor+ShareBubble.swift"; path = "ShareBubbles/Classes/UIColor+ShareBubble.swift"; sourceTree = "<group>"; };
+		A99DD1ECEABF4EA987474C0C1A4C8A7A /* Bubble.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Bubble.swift; path = ShareBubbles/Classes/Bubble.swift; sourceTree = "<group>"; };
+		ACC7B1EB0563D91EBCD889B185D6BF1E /* ShareBubbles.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ShareBubbles.swift; path = ShareBubbles/Classes/ShareBubbles.swift; sourceTree = "<group>"; };
 		B38DCB7E4D34A31A93D24E863686CCCB /* Pods-ShareBubbles_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ShareBubbles_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		B849AE5E0AF72A70714B025621236EC9 /* Pods-ShareBubbles_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ShareBubbles_Example-umbrella.h"; sourceTree = "<group>"; };
-		B85A8F197004FB4736AC28064A9134B4 /* ShareBubbles.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ShareBubbles.h; path = ShareBubbles/Classes/ShareBubbles.h; sourceTree = "<group>"; };
+		BB3D99DFAA34577C2CC35D61B7E3A057 /* ShareBubbles-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ShareBubbles-Info.plist"; sourceTree = "<group>"; };
+		C3FCE25EE443DE769444023856AE7F1F /* ShareBubbles-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ShareBubbles-prefix.pch"; sourceTree = "<group>"; };
 		C40493B623C9B0AF7453280950F81DBE /* Pods-ShareBubbles_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ShareBubbles_Tests-dummy.m"; sourceTree = "<group>"; };
-		CD81CF9E0ED0B8CA1D282A80E9B23C94 /* icon-line@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon-line@2x.png"; path = "ShareBubbles/Assets/icon-line@2x.png"; sourceTree = "<group>"; };
+		D2F1D536DFA303ACD7EDDE30316D5B79 /* ShareBubbles-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ShareBubbles-dummy.m"; sourceTree = "<group>"; };
 		E287C62EA2C12271BB54DE2A619A356C /* Pods-ShareBubbles_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ShareBubbles_Tests"; path = Pods_ShareBubbles_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E55113FD03125F801DE1BA05FAA55075 /* Pods-ShareBubbles_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ShareBubbles_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		E9074E033E1547A54D996392E5CD1941 /* icon-pinterest@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "icon-pinterest@2x.png"; path = "ShareBubbles/Assets/icon-pinterest@2x.png"; sourceTree = "<group>"; };
 		EB39F08BF5FC8890B74C16C19AE750BA /* Pods-ShareBubbles_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ShareBubbles_Example.modulemap"; sourceTree = "<group>"; };
-		EC88C1C4893139CDFBBEE3B5414216CA /* ShareBubbles.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ShareBubbles.debug.xcconfig; sourceTree = "<group>"; };
+		F39210DDD47C8CB5C97E2E5CFEAC8637 /* ShareBubbles.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ShareBubbles.modulemap; sourceTree = "<group>"; };
+		F4035C33B977A280422992A08B707DA2 /* ShareBubbles.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ShareBubbles.debug.xcconfig; sourceTree = "<group>"; };
 		F9A7F4AB3FC31A5028D3726CAF957376 /* Pods-ShareBubbles_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ShareBubbles_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		FA0F5CC05E425DA92567235E178999CA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		FC11E228BFD1D633F12545C273991486 /* Pods-ShareBubbles_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ShareBubbles_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		FD298AC30142BA54482B2FD3D07FEDE5 /* ShareBubbles */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ShareBubbles; path = ShareBubbles.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1248D795C6A1A3918E10F5A0BA9A9114 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F6246BD76FE512D8ED2CE76BDE36E5DC /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		38AB30F8DA07DF537698BE94293B71F3 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		51950E46B63754221411732946C126D7 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -146,29 +99,21 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		D30592FFCC906146352DA54132553AB9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				806DD737333C56A6DB89E51F25ECF647 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0D37E11FBBA19C63211BC38ED32BFB11 /* Support Files */ = {
+		3FAB909D3722F0F1F5C9D69B93017E1A /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				5C5D19B2F3BE59BCBA54A587DDDE8BD5 /* ResourceBundle-ShareBubbles-ShareBubbles-Info.plist */,
-				9241FACFE6242E49093AA0FCA56B1140 /* ShareBubbles.modulemap */,
-				68452FE53AF1040AB0C4517A6DD5957D /* ShareBubbles-dummy.m */,
-				A9701CF55547BACE9BA715CEA7BC0A4D /* ShareBubbles-Info.plist */,
-				35BF23DB5906C08A6FF4351B0306859B /* ShareBubbles-prefix.pch */,
-				50F2CB5353DA04CBB3D72F4508D7171A /* ShareBubbles-umbrella.h */,
-				EC88C1C4893139CDFBBEE3B5414216CA /* ShareBubbles.debug.xcconfig */,
-				25C6D125A1CFD8A624A201FE885DACE4 /* ShareBubbles.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/ShareBubbles";
-			sourceTree = "<group>";
-		};
-		1B6D2254AB1A5CA6DB935775D22833ED /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				A539DE0C057E5E390285C56E6D1825D0 /* ShareBubbles */,
+				B33121E55625F735AED30BCFDEF565EF /* ShareBubbles */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -223,63 +168,66 @@
 			path = "Target Support Files/Pods-ShareBubbles_Example";
 			sourceTree = "<group>";
 		};
-		A214B91D891FBDBC5FC3C52CD82E794B /* Pod */ = {
+		AB7050AB9355A2F287D2BFD4E36FFC48 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				1797806224499A8953193B7678034483 /* LICENSE */,
-				0FA9BDC8C8A5D5F66C54062BA585E7A0 /* README.md */,
-				5ED553F15EDFF1029C058134C27C20A5 /* ShareBubbles.podspec */,
+				F39210DDD47C8CB5C97E2E5CFEAC8637 /* ShareBubbles.modulemap */,
+				D2F1D536DFA303ACD7EDDE30316D5B79 /* ShareBubbles-dummy.m */,
+				BB3D99DFAA34577C2CC35D61B7E3A057 /* ShareBubbles-Info.plist */,
+				C3FCE25EE443DE769444023856AE7F1F /* ShareBubbles-prefix.pch */,
+				8A315E45D22696781E0D85A0891CC061 /* ShareBubbles-umbrella.h */,
+				F4035C33B977A280422992A08B707DA2 /* ShareBubbles.debug.xcconfig */,
+				3C82DF0501E93FF22AAF1FF86F9C236C /* ShareBubbles.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/ShareBubbles";
+			sourceTree = "<group>";
+		};
+		B33121E55625F735AED30BCFDEF565EF /* ShareBubbles */ = {
+			isa = PBXGroup;
+			children = (
+				A99DD1ECEABF4EA987474C0C1A4C8A7A /* Bubble.swift */,
+				2AE593A82EBCAB40A1588E10DE2878F6 /* ShareAttirbute.swift */,
+				46599739CAF2136F8069777072F49FA2 /* ShareBubbles.h */,
+				ACC7B1EB0563D91EBCD889B185D6BF1E /* ShareBubbles.swift */,
+				8EF1B16F50FEF60498A7CE466FCBAF09 /* ShareBubblesDelegate.swift */,
+				A2699BF86A80A49459393BDFABEF5CD4 /* UIColor+ShareBubble.swift */,
+				B4792CCBB10DCD23EBFD63E01533C3F3 /* Pod */,
+				AB7050AB9355A2F287D2BFD4E36FFC48 /* Support Files */,
+			);
+			name = ShareBubbles;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		B4792CCBB10DCD23EBFD63E01533C3F3 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				FA0F5CC05E425DA92567235E178999CA /* LICENSE */,
+				489142AF7A58087F9282DEF882E31F08 /* README.md */,
+				2A002BFB694C9B11B9AFAB11B60C8585 /* ShareBubbles.podspec */,
 			);
 			name = Pod;
 			sourceTree = "<group>";
 		};
-		A539DE0C057E5E390285C56E6D1825D0 /* ShareBubbles */ = {
+		CA5627FD9B64E9DA2C51DCC56433086C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				41B1F11B659BD238DA75990F74241ABA /* Bubble.swift */,
-				1836C755C6EF3618613F7F159B748D70 /* icon-facebook@2x.png */,
-				4D08B75ACFF37A3584B5DA825E868CEE /* icon-googleplus@2x.png */,
-				6376E85DBC2FC13D44656244CE7CC859 /* icon-instagram@2x.png */,
-				CD81CF9E0ED0B8CA1D282A80E9B23C94 /* icon-line@2x.png */,
-				158CCA648B5A9EF8EEA1DED8CB294128 /* icon-linkedin@2x.png */,
-				E9074E033E1547A54D996392E5CD1941 /* icon-pinterest@2x.png */,
-				6E85B22858A1CBF3857771791B4F68DA /* icon-safari@2x.png */,
-				4CCC4EF3F81696F8FC53902FF70C073C /* icon-twitter@2x.png */,
-				07B4570A41D409293C6005692C85F102 /* icon-weibo@2x.png */,
-				8643703312AA4FC586EC42C2171803C1 /* icon-whatsapp@2x.png */,
-				040D57E5B72D96A2C4729155A98FAED5 /* icon-youtube@2x.png */,
-				99BC0582420917ECA895CBA42F7AE643 /* ShareAttirbute.swift */,
-				B85A8F197004FB4736AC28064A9134B4 /* ShareBubbles.h */,
-				4FC2A6FE323BB25F60DBEEC9CBB35A2C /* ShareBubbles.swift */,
-				6684A36B20ABEEF44480B0037BC92B8A /* ShareBubblesDelegate.swift */,
-				790B30EE6EF0A442D04DB3F067850501 /* UIColor+ShareBubble.swift */,
-				A214B91D891FBDBC5FC3C52CD82E794B /* Pod */,
-				0D37E11FBBA19C63211BC38ED32BFB11 /* Support Files */,
+				8B3CF79DCCC14C5064D1AAB3ECD3895C /* Pods-ShareBubbles_Example */,
+				E287C62EA2C12271BB54DE2A619A356C /* Pods-ShareBubbles_Tests */,
+				FD298AC30142BA54482B2FD3D07FEDE5 /* ShareBubbles */,
 			);
-			name = ShareBubbles;
-			path = ../..;
+			name = Products;
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				1B6D2254AB1A5CA6DB935775D22833ED /* Development Pods */,
+				3FAB909D3722F0F1F5C9D69B93017E1A /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
-				CF95BDF41B9EF2717B49513E82460B11 /* Products */,
+				CA5627FD9B64E9DA2C51DCC56433086C /* Products */,
 				5595756B176E24B557B0DEFF6FF66127 /* Targets Support Files */,
 			);
-			sourceTree = "<group>";
-		};
-		CF95BDF41B9EF2717B49513E82460B11 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				8B3CF79DCCC14C5064D1AAB3ECD3895C /* Pods-ShareBubbles_Example */,
-				E287C62EA2C12271BB54DE2A619A356C /* Pods-ShareBubbles_Tests */,
-				FD298AC30142BA54482B2FD3D07FEDE5 /* ShareBubbles */,
-				8D8DD7C3311B03D249D368E9728C4098 /* ShareBubbles-ShareBubbles */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
@@ -293,15 +241,6 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		09A6FA984737FBE2B2E05E66B50A870F /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				EDC56D2815F07CC19A6712BC677F15A8 /* ShareBubbles.h in Headers */,
-				831A1DAD16F4316867F8CD11D60C2F9E /* ShareBubbles-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		3C9A77481F8CC957830717C3F386BF27 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -315,6 +254,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				B47A9A72813992250A19CEC7A7F289A2 /* Pods-ShareBubbles_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EAF2EF27517A90207FFF508DF4B6DEEA /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				003EE3890A952FD595A8A49985BCB430 /* ShareBubbles.h in Headers */,
+				7B7579A0BC83A980FCB002D8F46DB5C8 /* ShareBubbles-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -333,29 +281,12 @@
 			buildRules = (
 			);
 			dependencies = (
-				E11C9558D3305713CF15CE7C3379739B /* PBXTargetDependency */,
+				A114C7C3A170CEDDAEAF2170829A4B5E /* PBXTargetDependency */,
 			);
 			name = "Pods-ShareBubbles_Example";
 			productName = Pods_ShareBubbles_Example;
 			productReference = 8B3CF79DCCC14C5064D1AAB3ECD3895C /* Pods-ShareBubbles_Example */;
 			productType = "com.apple.product-type.framework";
-		};
-		C360A1BD858E1C2CFD7E81B37156F71B /* ShareBubbles-ShareBubbles */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = F4930ADA91422CD7188ADE47FB690531 /* Build configuration list for PBXNativeTarget "ShareBubbles-ShareBubbles" */;
-			buildPhases = (
-				ABF626634E1CCE11408C3E5C4476F1C6 /* Sources */,
-				38AB30F8DA07DF537698BE94293B71F3 /* Frameworks */,
-				CC694EC8D75D66FE4122ABFF6E03701D /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "ShareBubbles-ShareBubbles";
-			productName = ShareBubbles;
-			productReference = 8D8DD7C3311B03D249D368E9728C4098 /* ShareBubbles-ShareBubbles */;
-			productType = "com.apple.product-type.bundle";
 		};
 		CAEE5F068AC582E0B5AD74FC13CA9E1C /* Pods-ShareBubbles_Tests */ = {
 			isa = PBXNativeTarget;
@@ -369,7 +300,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				D52C31D04B1B58FD87C93B015077CB4D /* PBXTargetDependency */,
+				9F4B310D9C23E19496E0771B8D45B523 /* PBXTargetDependency */,
 			);
 			name = "Pods-ShareBubbles_Tests";
 			productName = Pods_ShareBubbles_Tests;
@@ -378,17 +309,16 @@
 		};
 		E79FE145E0C9875FD3B90B220DA3FD08 /* ShareBubbles */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9D17602FEBBF3F50A36230C3B9C95B5C /* Build configuration list for PBXNativeTarget "ShareBubbles" */;
+			buildConfigurationList = E066EB767022D225F2FB5DCA4F7DBE46 /* Build configuration list for PBXNativeTarget "ShareBubbles" */;
 			buildPhases = (
-				09A6FA984737FBE2B2E05E66B50A870F /* Headers */,
-				02B50B37D49ABCFCA94469118B68FC88 /* Sources */,
-				1248D795C6A1A3918E10F5A0BA9A9114 /* Frameworks */,
-				F7CD4DA0D4980AD6966E6E150E0D2B73 /* Resources */,
+				EAF2EF27517A90207FFF508DF4B6DEEA /* Headers */,
+				63D849FD27E9D703C0853D43539C8DE8 /* Sources */,
+				D30592FFCC906146352DA54132553AB9 /* Frameworks */,
+				C01EBB69D7CF6F23638BA231C8118FB8 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				6EE75253ECD671331B8C17166A86C4A4 /* PBXTargetDependency */,
 			);
 			name = ShareBubbles;
 			productName = ShareBubbles;
@@ -401,8 +331,8 @@
 		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1240;
-				LastUpgradeCheck = 1240;
+				LastSwiftUpdateCheck = 1300;
+				LastUpgradeCheck = 1300;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -413,14 +343,13 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = CF95BDF41B9EF2717B49513E82460B11 /* Products */;
+			productRefGroup = CA5627FD9B64E9DA2C51DCC56433086C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				662D4546D16AB6F3BDE82308D4E7EA52 /* Pods-ShareBubbles_Example */,
 				CAEE5F068AC582E0B5AD74FC13CA9E1C /* Pods-ShareBubbles_Tests */,
 				E79FE145E0C9875FD3B90B220DA3FD08 /* ShareBubbles */,
-				C360A1BD858E1C2CFD7E81B37156F71B /* ShareBubbles-ShareBubbles */,
 			);
 		};
 /* End PBXProject section */
@@ -440,48 +369,16 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CC694EC8D75D66FE4122ABFF6E03701D /* Resources */ = {
+		C01EBB69D7CF6F23638BA231C8118FB8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8940B31C356833B63EE7179594B79845 /* icon-facebook@2x.png in Resources */,
-				607D2D97EA4C619345D86A8CDE45DA3A /* icon-googleplus@2x.png in Resources */,
-				18ECB3729C8D73C346332E1EC205A7B1 /* icon-instagram@2x.png in Resources */,
-				DCBC1E17F62F4DD4A1F1E5AC1D002EFF /* icon-line@2x.png in Resources */,
-				6484EDDB51CF30F3EB78EC999F3503A4 /* icon-linkedin@2x.png in Resources */,
-				75FCA8602CA43E8B0E28B76056FB9B64 /* icon-pinterest@2x.png in Resources */,
-				9DA75824D2FB3F845CCED5D711403294 /* icon-safari@2x.png in Resources */,
-				C8E860F43B56E210358C35EFB95BCFAA /* icon-twitter@2x.png in Resources */,
-				5850A5108BD915ABF1DED6A435B74567 /* icon-weibo@2x.png in Resources */,
-				361513752F2F2FCEBEBCCE3569EEBA3F /* icon-whatsapp@2x.png in Resources */,
-				3CCBE50C8F561DCA23FC98F58A84197A /* icon-youtube@2x.png in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F7CD4DA0D4980AD6966E6E150E0D2B73 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				92EE8F11D3294F8A69C021802AEE47F1 /* ShareBubbles-ShareBubbles in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		02B50B37D49ABCFCA94469118B68FC88 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				9E5636CE1184DDA337D147F97FF68D95 /* Bubble.swift in Sources */,
-				3F9F0C50190AC740A23D3654173F3815 /* ShareAttirbute.swift in Sources */,
-				D0243B892D5DB77A36708570D7498E9B /* ShareBubbles.swift in Sources */,
-				B42A7E0DC33F995D0BF8DD252476882C /* ShareBubbles-dummy.m in Sources */,
-				E8AC78A92A824B2D791634A420DD4FF6 /* ShareBubblesDelegate.swift in Sources */,
-				B5994962EED6169B5B72A18280F03AB0 /* UIColor+ShareBubble.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		3ED32753432C1EB00E26DECBDF24E8CB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -498,33 +395,33 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		ABF626634E1CCE11408C3E5C4476F1C6 /* Sources */ = {
+		63D849FD27E9D703C0853D43539C8DE8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D2448BEB44E7BDD3ECC8931B585D48D0 /* Bubble.swift in Sources */,
+				C39CB23F304CCDD38559472176162A02 /* ShareAttirbute.swift in Sources */,
+				95703C5C45F16848CAC1537DE34912B9 /* ShareBubbles.swift in Sources */,
+				FD752029F9F5EC293EB4624175B48E27 /* ShareBubbles-dummy.m in Sources */,
+				099717884816F09C712CD20563C98FE8 /* ShareBubblesDelegate.swift in Sources */,
+				B0428D09E8AF8A43630232BADE41B11F /* UIColor+ShareBubble.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		6EE75253ECD671331B8C17166A86C4A4 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "ShareBubbles-ShareBubbles";
-			target = C360A1BD858E1C2CFD7E81B37156F71B /* ShareBubbles-ShareBubbles */;
-			targetProxy = 18DECD950F878FADFEA58D2A1E5E4D1F /* PBXContainerItemProxy */;
-		};
-		D52C31D04B1B58FD87C93B015077CB4D /* PBXTargetDependency */ = {
+		9F4B310D9C23E19496E0771B8D45B523 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-ShareBubbles_Example";
 			target = 662D4546D16AB6F3BDE82308D4E7EA52 /* Pods-ShareBubbles_Example */;
-			targetProxy = BF7198B073D6E507238C4C4F49241813 /* PBXContainerItemProxy */;
+			targetProxy = C874C565A23C0D895E9E14BF9DDE0501 /* PBXContainerItemProxy */;
 		};
-		E11C9558D3305713CF15CE7C3379739B /* PBXTargetDependency */ = {
+		A114C7C3A170CEDDAEAF2170829A4B5E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = ShareBubbles;
 			target = E79FE145E0C9875FD3B90B220DA3FD08 /* ShareBubbles */;
-			targetProxy = E1F6ED5B3AD81F6E99B96637CA33DFE2 /* PBXContainerItemProxy */;
+			targetProxy = 935BF7676A2156B3D17E4D4ACDC9745C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -725,9 +622,9 @@
 			};
 			name = Debug;
 		};
-		A2A8319747E8FA8FB09056B4FA514AED /* Release */ = {
+		9E1864B850E12304AF40AEEA30D11187 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 25C6D125A1CFD8A624A201FE885DACE4 /* ShareBubbles.release.xcconfig */;
+			baseConfigurationReference = 3C82DF0501E93FF22AAF1FF86F9C236C /* ShareBubbles.release.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -748,7 +645,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -756,37 +653,35 @@
 			};
 			name = Release;
 		};
-		A50C1D7C6620418EE50AB6CE86FD80DD /* Debug */ = {
+		ADEA96FD53EF684C1D08E08F904CDC66 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EC88C1C4893139CDFBBEE3B5414216CA /* ShareBubbles.debug.xcconfig */;
+			baseConfigurationReference = F4035C33B977A280422992A08B707DA2 /* ShareBubbles.debug.xcconfig */;
 			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/ShareBubbles";
-				IBSC_MODULE = ShareBubbles;
-				INFOPLIST_FILE = "Target Support Files/ShareBubbles/ResourceBundle-ShareBubbles-ShareBubbles-Info.plist";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/ShareBubbles/ShareBubbles-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ShareBubbles/ShareBubbles-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ShareBubbles/ShareBubbles.modulemap";
+				PRODUCT_MODULE_NAME = ShareBubbles;
 				PRODUCT_NAME = ShareBubbles;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		C6F320D50715A8214CB78666ACEB9035 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 25C6D125A1CFD8A624A201FE885DACE4 /* ShareBubbles.release.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/ShareBubbles";
-				IBSC_MODULE = ShareBubbles;
-				INFOPLIST_FILE = "Target Support Files/ShareBubbles/ResourceBundle-ShareBubbles-ShareBubbles-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				PRODUCT_NAME = ShareBubbles;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
 		};
 		CA547D2C7E9A8A153DC2B27FBE00B112 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -850,36 +745,6 @@
 			};
 			name = Release;
 		};
-		E7B6FEAA8E60A3F711AFD44928DB97C9 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = EC88C1C4893139CDFBBEE3B5414216CA /* ShareBubbles.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/ShareBubbles/ShareBubbles-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/ShareBubbles/ShareBubbles-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/ShareBubbles/ShareBubbles.modulemap";
-				PRODUCT_MODULE_NAME = ShareBubbles;
-				PRODUCT_NAME = ShareBubbles;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -910,20 +775,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9D17602FEBBF3F50A36230C3B9C95B5C /* Build configuration list for PBXNativeTarget "ShareBubbles" */ = {
+		E066EB767022D225F2FB5DCA4F7DBE46 /* Build configuration list for PBXNativeTarget "ShareBubbles" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E7B6FEAA8E60A3F711AFD44928DB97C9 /* Debug */,
-				A2A8319747E8FA8FB09056B4FA514AED /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		F4930ADA91422CD7188ADE47FB690531 /* Build configuration list for PBXNativeTarget "ShareBubbles-ShareBubbles" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				A50C1D7C6620418EE50AB6CE86FD80DD /* Debug */,
-				C6F320D50715A8214CB78666ACEB9035 /* Release */,
+				ADEA96FD53EF684C1D08E08F904CDC66 /* Debug */,
+				9E1864B850E12304AF40AEEA30D11187 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

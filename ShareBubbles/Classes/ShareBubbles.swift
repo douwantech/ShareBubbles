@@ -48,32 +48,6 @@ public class ShareBubbles: UIView {
         attributes.removeAll()
         buttons.removeAll()
 
-        for showBubble in showBubbleTypes {
-            switch showBubble {
-            case .facebook:
-                createButton(attribute: ShareAttirbute.createFacebook())
-            case .twitter:
-                createButton(attribute: ShareAttirbute.createTwitter())
-            case .line:
-                createButton(attribute: ShareAttirbute.createLine())
-            case .whatsapp:
-                createButton(attribute: ShareAttirbute.createWhatsapp())
-            case .linkedin:
-                createButton(attribute: ShareAttirbute.createLinkedin())
-            case .weibo:
-                createButton(attribute: ShareAttirbute.createWeibo())
-            case .youtube:
-                createButton(attribute: ShareAttirbute.createYoutube())
-            case .pintereset:
-                createButton(attribute: ShareAttirbute.createPinterest())
-            case .instagram:
-                createButton(attribute: ShareAttirbute.createInstagram())
-            case .google:
-                createButton(attribute: ShareAttirbute.createGoogle())
-            case .safari:
-                createButton(attribute: ShareAttirbute.createSafari())
-            }
-        }
         for customBubbleAttribute in customBubbleAttributes {
             createButton(attribute: customBubbleAttribute)
         }
